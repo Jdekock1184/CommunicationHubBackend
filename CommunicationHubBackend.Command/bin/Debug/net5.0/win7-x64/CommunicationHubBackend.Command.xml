@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommunicationHubBackend.Command</name>
+    </assembly>
+    <members>
+        <member name="T:CommunicationHubBackend.Command.Command">
+            <summary>
+            The FabricRuntime creates an instance of this class for each service type instance.
+            </summary>
+        </member>
+        <member name="M:CommunicationHubBackend.Command.Command.CreateServiceInstanceListeners">
+            <summary>
+            Optional override to create listeners (like tcp, http) for this service instance.
+            </summary>
+            <returns>The collection of listeners.</returns>
+        </member>
+        <member name="M:CommunicationHubBackend.Command.Controllers.MessageController.SendMessage(CommunicationHubBackend.Core.Commands.AnalyseMessageCommand)">
+            <summary>
+            Used to analyse a message and remove any disapproved content.
+            </summary>
+            <returns>Will return a 202 Accepted if the message was analysed and approved</returns>
+        </member>
+        <member name="M:CommunicationHubBackend.Command.Program.Main">
+            <summary>
+            This is the entry point of the service host process.
+            </summary>
+        </member>
+    </members>
+</doc>
