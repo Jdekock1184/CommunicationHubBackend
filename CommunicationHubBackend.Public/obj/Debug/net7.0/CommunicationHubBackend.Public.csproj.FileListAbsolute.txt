@@ -1,0 +1,5 @@
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\net7.0\CommunicationHubBackend.Public.csproj.AssemblyReference.cache
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\net7.0\CommunicationHubBackend.Public.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\net7.0\CommunicationHubBackend.Public.AssemblyInfoInputs.cache
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\net7.0\CommunicationHubBackend.Public.AssemblyInfo.cs
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\net7.0\CommunicationHubBackend.Public.csproj.CoreCompileInputs.cache

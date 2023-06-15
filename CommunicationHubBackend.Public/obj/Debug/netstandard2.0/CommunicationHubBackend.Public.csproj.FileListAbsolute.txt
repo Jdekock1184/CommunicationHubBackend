@@ -1,0 +1,10 @@
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\netstandard2.0\CommunicationHubBackend.Public.csproj.AssemblyReference.cache
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\netstandard2.0\CommunicationHubBackend.Public.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\netstandard2.0\CommunicationHubBackend.Public.AssemblyInfoInputs.cache
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\netstandard2.0\CommunicationHubBackend.Public.AssemblyInfo.cs
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\netstandard2.0\CommunicationHubBackend.Public.csproj.CoreCompileInputs.cache
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\bin\Debug\netstandard2.0\CommunicationHubBackend.Public.deps.json
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\bin\Debug\netstandard2.0\CommunicationHubBackend.Public.dll
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\bin\Debug\netstandard2.0\CommunicationHubBackend.Public.pdb
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\netstandard2.0\CommunicationHubBackend.Public.dll
+C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Public\obj\Debug\netstandard2.0\CommunicationHubBackend.Public.pdb

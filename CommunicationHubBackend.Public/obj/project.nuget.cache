@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHWE66n8hm8hG2jGMHbIWAFf2QkXYt+YXf4PfxUa8LlUVWwBAzWNZMbZ0vdP/IHRTrYJ+EqMhHvL+9lmWCFwLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Public\\CommunicationHubBackend.Public.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rookie RockStar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rookie RockStar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Rookie RockStar\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Rookie RockStar\\.nuget\\packages\\nswag.msbuild\\13.13.2\\nswag.msbuild.13.13.2.nupkg.sha512",
+    "C:\\Users\\Rookie RockStar\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
