@@ -18,13 +18,13 @@ namespace CommunicationHubBackend.Core.Handlers
         {
             string[] allWordsInmessage = request.Message.Split(' ');
             var sensitiveWordsContext = new SensitiveWordsContext();
-
-            foreach (var item in sensitiveWordsContext.TblSensitiveWords.AsNoTracking())
+            var sensitiveWords = sensitiveWordsContext.TblSensitiveWords.AsNoTracking().Select(x => x.Word);
+            foreach (var item in sensitiveWords)
             {
                 for (int i = 0; i < allWordsInmessage.Length; i++)
                 {
                     string cleanedWord = Regex.Replace(allWordsInmessage[i], @"[\p{P}]", "");
-                    if (cleanedWord.Equals(item.Word))
+                    if (cleanedWord.Equals(item))
                     {
                         string punctuationMarks = Regex.Replace(allWordsInmessage[i], @"[\p{L}]+", "");
                         allWordsInmessage[i] = "****";

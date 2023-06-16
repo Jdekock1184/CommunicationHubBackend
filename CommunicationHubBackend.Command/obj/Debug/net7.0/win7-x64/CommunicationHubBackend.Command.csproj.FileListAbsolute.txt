@@ -1178,6 +1178,7 @@ C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\Com
 C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\CommunicationHubBackend.Command.csproj.CoreCompileInputs.cache
 C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\CommunicationHubBackend.Command.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\CommunicationHubBackend.Command.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\CommunicationHubBackend.Command.sourcelink.json
 C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\staticwebassets\msbuild.CommunicationHubBackend.Command.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\staticwebassets\msbuild.build.CommunicationHubBackend.Command.props
 C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\staticwebassets\msbuild.buildMultiTargeting.CommunicationHubBackend.Command.props
@@ -1192,4 +1193,3 @@ C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\Com
 C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\CommunicationHubBackend.Command.pdb
 C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\CommunicationHubBackend.Command.genruntimeconfig.cache
 C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\ref\CommunicationHubBackend.Command.dll
-C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Command\obj\Debug\net7.0\win7-x64\CommunicationHubBackend.Command.sourcelink.json
