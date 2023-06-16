@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommunicationHubBackend.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbf24df3b6a85789bc5634753b49bd2491907144")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1102717dfc4a41866abb3d659d5f1c3bed1c564d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommunicationHubBackend.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommunicationHubBackend.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
