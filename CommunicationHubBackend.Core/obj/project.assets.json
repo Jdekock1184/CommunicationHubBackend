@@ -3247,11 +3247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj",
       "projectName": "CommunicationHubBackend.Core",
-      "projectPath": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj",
+      "projectPath": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj",
       "packagesPath": "C:\\Users\\Rookie RockStar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Core\\obj\\",
+      "outputPath": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rookie RockStar\\AppData\\Roaming\\NuGet\\NuGet.Config",

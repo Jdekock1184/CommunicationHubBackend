@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj": {}
+    "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj": {
+    "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj",
+        "projectUniqueName": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj",
         "projectName": "CommunicationHubBackend.Command",
-        "projectPath": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj",
+        "projectPath": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj",
         "packagesPath": "C:\\Users\\Rookie RockStar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Command\\obj\\",
+        "outputPath": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Command\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rookie RockStar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj": {
-                "projectPath": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj"
+              "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj": {
+                "projectPath": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj": {
+    "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj",
         "projectName": "CommunicationHubBackend.Core",
-        "projectPath": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj",
+        "projectPath": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Core\\CommunicationHubBackend.Core.csproj",
         "packagesPath": "C:\\Users\\Rookie RockStar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Core\\obj\\",
+        "outputPath": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rookie RockStar\\AppData\\Roaming\\NuGet\\NuGet.Config",

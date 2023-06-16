@@ -10,3 +10,15 @@ C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBa
 C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\refint\CommunicationHubBackend.Core.dll
 C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\CommunicationHubBackend.Core.pdb
 C:\Users\Rookie RockStar\source\repos\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\ref\CommunicationHubBackend.Core.dll
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\bin\Debug\net7.0\CommunicationHubBackend.Core.deps.json
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\bin\Debug\net7.0\CommunicationHubBackend.Core.dll
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\bin\Debug\net7.0\CommunicationHubBackend.Core.pdb
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\CommunicationHubBackend.Core.csproj.AssemblyReference.cache
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\CommunicationHubBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\CommunicationHubBackend.Core.AssemblyInfoInputs.cache
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\CommunicationHubBackend.Core.AssemblyInfo.cs
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\CommunicationHubBackend.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\CommunicationHubBackend.Core.dll
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\refint\CommunicationHubBackend.Core.dll
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\CommunicationHubBackend.Core.pdb
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend.Core\obj\Debug\net7.0\ref\CommunicationHubBackend.Core.dll

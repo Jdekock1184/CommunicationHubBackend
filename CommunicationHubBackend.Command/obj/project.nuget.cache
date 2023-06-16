@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G3zuYMh7XaG0exzVeSzh0qqueKKEWzUmG+3qUHHc5SFoPt7AtksO/BikYmsazhdH4GZKOEV2eSJNpq8qzPAzpg==",
+  "dgSpecHash": "Tg6FSvhWMiubUw5FF4hzVB9ql495I/S/HeXL8Wxo3XPFUTu/ySv9BMN9nwhlIgXXAc1YM/epM7baUjiOY7/1aQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rookie RockStar\\source\\repos\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj",
+  "projectFilePath": "C:\\Users\\Rookie RockStar\\Documents\\Projects\\AvalonRe\\CommunicationHubBackend\\CommunicationHubBackend.Command\\CommunicationHubBackend.Command.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rookie RockStar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Rookie RockStar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
