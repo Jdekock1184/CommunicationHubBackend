@@ -34,7 +34,27 @@ namespace CommunicationHubBackend.Command
 
             services.AddMediatR((x) => x.RegisterServicesFromAssemblyContaining<AssemblyMarker>());
 
-            services.AddSwaggerDocument();
+            services.AddSwaggerDocument(config =>
+            {
+                config.PostProcess = document =>
+                {
+                    document.Info.Version = "v1";
+                    document.Info.Title = "Sensitive Words API";
+                    document.Info.Description = "a Simple API that takes in a message, validates the message for any sensitive words. If any, replaces them wiht **** List of words can be ammended accoring to client's needs.";
+                    document.Info.TermsOfService = "None";
+                    document.Info.Contact = new NSwag.OpenApiContact
+                    {
+                        Name = "Johan de Kock",
+                        Email = "jdekock1184@gmail.com",
+                        Url = ""
+                    };
+                    document.Info.License = new NSwag.OpenApiLicense
+                    {
+                        Name = "Use under LICX",
+                        Url = ""
+                    };
+                };
+            });
 
         }
 
