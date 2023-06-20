@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m+uX3Wv6Fkb86bcGLiJSK1V2AXME3bZYcHoY2M0r2sw=",
+  "Source": "CommunicationHubBackend.Command",
+  "BasePath": "_content/CommunicationHubBackend.Command",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,1 @@
+C:\Users\Rookie RockStar\Documents\Projects\AvalonRe\CommunicationHubBackend\CommunicationHubBackend\obj\x64\Release\CommunicationHubBackend.sfproj.CoreCompileInputs.cache
