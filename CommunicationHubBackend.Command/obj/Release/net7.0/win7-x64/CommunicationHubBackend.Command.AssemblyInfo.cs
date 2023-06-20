@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommunicationHubBackend.Command")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60acda71ab9631cd55a4026c4da248788f828d6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommunicationHubBackend.Command")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommunicationHubBackend.Command")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
